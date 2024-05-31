@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ToastEmoji</string>
+    <string-array name="arr_face">
+        <item>angry</item>
+        <item>cry</item>
+        <item>cute</item>
+        <item>laugh</item>
+        <item>sad</item>
+        <item>sick</item>
+        <item>sleep</item>
+        <item>smile</item>
+        <item>wow</item>
+    </string-array>
+</resources>
